@@ -1,0 +1,4 @@
+A simple tool I made for myself.
+Opens a window, type a something in.
+What you typed in is fed in to the shell
+that it's running in.
